@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sssun19
 - 👀 I’m interested in ... Java, Javascript, Node.js
-- 🌱 I’m currently learning ... node.js
+- 🌱 I’m currently learning ... WebSocket
 - 📫 How to reach me ... 98_0509@naver.com
 
 <!---
