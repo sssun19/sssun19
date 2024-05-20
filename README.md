@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sssun19
-- 👀 I’m interested in ... Java, Node.js, Kotlin
-- 🌱 I’m currently learning ... Kotlin
+- 👀 I’m interested in ... Java, Kotlin, Flutter
+- 🌱 I’m currently learning ... Kotlin, Flutter
 - 📫 How to reach me ... 98_0509@naver.com
 - :sparkles: Thank you! :sparkles:
 
