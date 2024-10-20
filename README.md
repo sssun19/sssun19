@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sssun19
 - 👀 I’m interested in ... Java, Kotlin
-- 🌱 I’m currently learning ... Java, Kotlin
+- 🌱 I’m currently learning ... Java, Spring security
 - 📫 How to reach me ... 98_0509@naver.com
 - :sparkles: Thank you! :sparkles:
 
